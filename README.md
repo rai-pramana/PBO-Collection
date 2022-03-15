@@ -1,5 +1,5 @@
 # Tugas-1_Collection_PBO-D
-Tugas 1 Pembuatan Collection,
+Tugas 1 Pembuatan Collection
 
 Nama            : I Kadek Rai Pramana,
 Nim             : 2105551094,
